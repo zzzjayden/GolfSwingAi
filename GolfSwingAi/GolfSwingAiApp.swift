@@ -8,7 +8,6 @@
 import SwiftUI
 import SwiftData
 
-@main
 struct GolfSwingAiApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
@@ -25,7 +24,7 @@ struct GolfSwingAiApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomePage()
         }
         .modelContainer(sharedModelContainer)
     }
