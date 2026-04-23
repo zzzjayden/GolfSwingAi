@@ -11,13 +11,13 @@ A modern SwiftUI app for analyzing golf swings using AI and computer vision.
 
 ## Screenshots
 
-![Login Page](LoginPage.png)  
+![Login Page](Screenshots/LoginPage.png)  
 *Login Page: Enter your name, email, and API key to get started.*
 
-![Home Page](HomePage.png)  
+![Home Page](Screenshots/HomePage.png)  
 *Home Page: Dashboard with your golf swing projects and analysis.*
 
-![Drills Page](Drills Page.png)  
+![Drills Page](Screenshots/Drills Page.png)  
 *Drills Page: Watch embedded video tips to improve your swing.*
 
 <!-- Add more screenshots here if needed -->
@@ -27,5 +27,3 @@ A modern SwiftUI app for analyzing golf swings using AI and computer vision.
 1. Clone this repo:
    ```sh
    git clone <repo-url>
-
-
