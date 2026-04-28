@@ -139,6 +139,8 @@ IMPORTANT FORMAT RULES:
 • Use headings exactly as: Setup, Backswing, Top of Swing, Downswing, Follow-Through, and Key Priorities.
 • Keep it concise plain text.
 
+• Include a 2 sentence summary, professionally hyping up the golfer, and giving positive feedback. For example "This looks solid..." or maybe you can use some golf slang so the golfer can feel more comfortable. Nothing too outrageous but you are a golf coach. 
+
 STRUCTURE:
 Setup
 • Strengths: ...

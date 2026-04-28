@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B2CCE7CD2FA08288009EB586 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B2CCE7C42FA08288009EB586 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		B26ED6232E00C7D8002132E8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,22 +31,13 @@
 		B26ED6132E00C7D6002132E8 /* GolfSwingAi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GolfSwingAi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B26ED6222E00C7D8002132E8 /* GolfSwingAiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GolfSwingAiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B26ED62C2E00C7D8002132E8 /* GolfSwingAiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GolfSwingAiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2CCE7C42FA08288009EB586 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B26ED6152E00C7D6002132E8 /* GolfSwingAi */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = GolfSwingAi;
-			sourceTree = "<group>";
-		};
-		B26ED6252E00C7D8002132E8 /* GolfSwingAiTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = GolfSwingAiTests;
-			sourceTree = "<group>";
-		};
-		B26ED62F2E00C7D8002132E8 /* GolfSwingAiUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = GolfSwingAiUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +70,8 @@
 		B26ED60A2E00C7D6002132E8 = {
 			isa = PBXGroup;
 			children = (
+				B2CCE7C42FA08288009EB586 /* README.md */,
 				B26ED6152E00C7D6002132E8 /* GolfSwingAi */,
-				B26ED6252E00C7D8002132E8 /* GolfSwingAiTests */,
-				B26ED62F2E00C7D8002132E8 /* GolfSwingAiUITests */,
 				B26ED6142E00C7D6002132E8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +124,6 @@
 			dependencies = (
 				B26ED6242E00C7D8002132E8 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				B26ED6252E00C7D8002132E8 /* GolfSwingAiTests */,
-			);
 			name = GolfSwingAiTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +143,6 @@
 			);
 			dependencies = (
 				B26ED62E2E00C7D8002132E8 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				B26ED62F2E00C7D8002132E8 /* GolfSwingAiUITests */,
 			);
 			name = GolfSwingAiUITests;
 			packageProductDependencies = (
@@ -212,6 +200,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2CCE7CD2FA08288009EB586 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

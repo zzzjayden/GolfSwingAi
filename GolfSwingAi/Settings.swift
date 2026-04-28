@@ -3,6 +3,7 @@ import SwiftUI
 struct Settings: View {
     @AppStorage("Name") private var name: String = ""
     @AppStorage("user_api_key") private var apiKey: String = ""
+    @AppStorage("isSignedIn") private var isSignedIn: Bool = true
 
     @State private var showKey: Bool = false
     @State private var isTesting: Bool = false
@@ -94,6 +95,14 @@ struct Settings: View {
                         Label("Copy API Key", systemImage: "doc.on.doc")
                     }
                     .disabled(apiKey.isEmpty)
+                }
+
+                Section {
+                    Button(role: .destructive) {
+                        isSignedIn = false
+                    } label: {
+                        Label("Sign Out", systemImage: "rectangle.portrait.and.arrow.right")
+                    }
                 }
             }
             .navigationTitle("Settings")
