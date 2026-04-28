@@ -39,6 +39,10 @@ A modern SwiftUI app for analyzing golf swings using AI and computer vision.
 1. Clone this repo:
    ```sh
    git clone <repo-url>
+   
+2. Install and open Xcode
+   
+3. Build and run
 
 
 
