@@ -15,7 +15,6 @@ A modern SwiftUI app for analyzing golf swings using AI and computer vision.
 
 <img src="GolfSwingAi/Screenshots/LoginPage.PNG" alt="Login Page" width="350"/>
 
-
 *Home Page: Dashboard with your golf swing projects and analysis.*
 
 <img src="GolfSwingAi/Screenshots/Home.PNG" alt="Home Page" width="350"/>
