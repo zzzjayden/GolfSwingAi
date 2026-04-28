@@ -13,26 +13,26 @@ A modern SwiftUI app for analyzing golf swings using AI and computer vision.
 
 *Login Page: Enter your name, email, and API key to get started.*
 
-<img src="Screenshots/LoginPage.png" alt="Login Page" width="350"/>
+<img src="GolfSwingAi/Screenshots/LoginPage.png" alt="Login Page" width="350"/>
 
 
 *Home Page: Dashboard with your golf swing projects and analysis.*
 
-<img src="Screenshots/Home.png" alt="Home Page" width="350"/>
+<img src="GolfSwingAi/Screenshots/Home.png" alt="Home Page" width="350"/>
 
 
 *Frame Capture: Capture individual moments of your swing to be able to analyze it.*
 
-<img src="Screenshots/FrameCapture.png" alt="Frame Capture Page" width="350"/>
+<img src="GolfSwingAi/Screenshots/FrameCapture.png" alt="Frame Capture Page" width="350"/>
 
 <!-- Add more screenshots here if needed -->
 *Feedback: Get a response from GolfSwingAi based on the frames you capturued and receive Feedback!*
 
-<img src="Screenshots/Feedback.png" alt="Feedback Page" width="350"/>
+<img src="GolfSwingAi/Screenshots/Feedback.png" alt="Feedback Page" width="350"/>
 
 *Projects: Go back and reference your previous analyzing sessions and see how you've grown!*
 
-<img src="Screenshots/Projects.png" alt="Feedback Page" width="350"/>
+<img src="GolfSwingAi/Screenshots/Projects.png" alt="Feedback Page" width="350"/>
 
 ## Getting Started
 
